@@ -1,0 +1,6 @@
+[submodule "libprofiler"]
+	path = libprofiler
+	url = https://github.com/comeillfoo/libprofiler
+[submodule "self-profiler"]
+	path = self-profiler
+	url = https://github.com/comeillfoo/self-profiler
