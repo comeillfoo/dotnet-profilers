@@ -4,3 +4,6 @@
 [submodule "self-profiler"]
 	path = self-profiler
 	url = https://github.com/comeillfoo/self-profiler
+[submodule "log-plotter"]
+	path = log-plotter
+	url = https://github.com/comeillfoo/log-plotter.git
