@@ -7,3 +7,6 @@
 [submodule "ManagedDotnetProfiler"]
 	path = ManagedDotnetProfiler
 	url = https://github.com/comeillfoo/ManagedDotnetProfiler.git
+[submodule "visual-clr"]
+	path = visual-clr
+	url = https://github.com/comeillfoo/visual-clr.git
