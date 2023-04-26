@@ -12,4 +12,4 @@
 ## Полезные ссылки
 
 - [текстовая часть ВКР](https://docs.google.com/document/d/1VweG0oLITRlVW7sHKN---gBdIq2mijvW/edit?usp=share_link&ouid=105254432965174145164&rtpof=true&sd=true),
-- презентация (в работе).
+- [презентация](https://docs.google.com/presentation/d/1llPzRJ3RJEDIVwaMqWz2viAI-a0_u_Bg/edit?usp=sharing&ouid=105254432965174145164&rtpof=true&sd=true).
